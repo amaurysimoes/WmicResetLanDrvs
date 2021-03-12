@@ -1,0 +1,2 @@
+C:\Users\bb0h6992\Downloads\WMICLanReset-main\obj\Debug\WMIC.csprojAssemblyReference.cache
+C:\Users\bb0h6992\Downloads\WMICLanReset-main\obj\Debug\WMIC.csproj.CoreCompileInputs.cache
